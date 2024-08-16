@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RWuaUF9QDePc2M9+HmDdBqd3Vfw314Lj5mqRWq/1sAI=",
+  "Source": "TMS.WebApi",
+  "BasePath": "_content/TMS.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
